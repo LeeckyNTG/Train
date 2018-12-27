@@ -10,7 +10,7 @@ TO_STATION = '贵阳'
 # 乘车日期（格式: YYYY-mm-dd）
 TRAIN_DATE = '2018-12-27'
 # 购票人身份证号
-PASSENGERS_ID = ['52232119961130762X']
+PASSENGERS_ID = ['']
 # 票类型（单程:dc 往返:wc）
 TOUR_FLAG = 'dc'
 
