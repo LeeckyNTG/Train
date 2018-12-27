@@ -1,8 +1,8 @@
 # 必填
 # 用户名
-USER_NAME = 'li1310556122'
+USER_NAME = ''
 # 密码
-USER_PWD = 'yulanlan5201314'
+USER_PWD = ''
 # 出发站
 FROM_STATION = '广州'
 # 到达站
