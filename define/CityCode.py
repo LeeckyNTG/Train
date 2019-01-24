@@ -2674,6 +2674,7 @@ CITY_NAME = [
     "卓资东",
     "郑州东",
     "株洲南",
+    "阳江",
 ]
 CITY_CODE = [
     "VAP",
@@ -5351,6 +5352,7 @@ CITY_CODE = [
     "ZDC",
     "ZAF", 
     "KVQ",
+    "WRQ"
 ]
 
 
